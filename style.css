@@ -1,3 +1,7 @@
+.logo{
+    width: 80px;
+}
+
 /*Pag login*/
 .entrar {
     color: #fff;
@@ -13,3 +17,18 @@
     margin-left: 5em;
 }
 /*Fim Pag login*/
+
+
+/*Pag Musicas*/
+#card{
+    max-width: 100vh;
+}
+
+.container-music{
+    margin: 1.5rem;
+}
+
+.p-justify{
+    text-align: justify;
+}
+/*Fim Pag Musicas*/
