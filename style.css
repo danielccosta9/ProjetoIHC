@@ -2,6 +2,10 @@
 .logo{
     width: 80px;
 }
+.top {
+    margin-top: 2.5em;
+    
+}
 
 .github{
     width: 32px;
@@ -24,7 +28,7 @@
 }
 
 .container{
-    margin: 5rem;
+    margin-top: 5rem;
 }
 
 .margin-left{
@@ -43,6 +47,15 @@
 }
 /*Fim Pag Musicas*/
 
+
+/*Pag Galeria*/
+#max-tamanho{
+    max-width: 500px;
+    max-height: 350px;
+}
+/*Fim Pag Galeria*/
+
+
 /*Carousel*/
 .carousel{
     width: 100%;
@@ -57,10 +70,8 @@
 /*Fim Carousel*/
 
 /*Footer*/
-#footer-ajuste{
-    margin-top: 5rem;
-    padding: 0.1rem;
-    max-height: 25vh;
-    width: 100%;
+footer .top{
+    color: #fff;
 }
+
 /*Fim Footer*/
