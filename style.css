@@ -1,6 +1,20 @@
+/*Alteracoes Gerais*/
 .logo{
     width: 80px;
 }
+
+.github{
+    width: 32px;
+}
+
+.p-justify{
+    text-align: justify;
+}
+
+.logo-footer{
+    width: 150px;
+}
+/*Fim Alteracoes Gerais*/
 
 /*Pag login*/
 .entrar {
@@ -27,8 +41,26 @@
 .container-music{
     margin: 1.5rem;
 }
-
-.p-justify{
-    text-align: justify;
-}
 /*Fim Pag Musicas*/
+
+/*Carousel*/
+.carousel{
+    width: 100%;
+}
+
+.carousel-item{
+    top: 0;
+    left: 0;
+    height: 70vh;
+    max-height: 70vh;
+}
+/*Fim Carousel*/
+
+/*Footer*/
+#footer-ajuste{
+    margin-top: 5rem;
+    padding: 0.1rem;
+    max-height: 25vh;
+    width: 100%;
+}
+/*Fim Footer*/
