@@ -20,6 +20,14 @@
 }
 /*Fim Alteracoes Gerais*/
 
+/*Pag index*/
+#max-tamanho{
+    max-width: 350px;
+    max-height: 350px;
+}
+/*Pag index*/
+
+
 /*Pag login*/
 .entrar {
     color: #fff;
@@ -47,15 +55,6 @@
 }
 /*Fim Pag Musicas*/
 
-
-/*Pag Galeria*/
-#max-tamanho{
-    max-width: 500px;
-    max-height: 350px;
-}
-/*Fim Pag Galeria*/
-
-
 /*Carousel*/
 .carousel{
     width: 100%;
@@ -70,7 +69,7 @@
 /*Fim Carousel*/
 
 /*Footer*/
-footer .top{
+.branco{
     color: #fff;
 }
 
