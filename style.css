@@ -22,9 +22,24 @@
 
 /*Pag index*/
 #max-tamanho{
-    max-width: 350px;
-    max-height: 350px;
+    max-width: 328px;
+    max-height: 328px;
 }
+
+
+/*Carousel*/
+.carousel{
+    width: 100%;
+}
+
+.carousel-item{
+    top: 0;
+    left: 0;
+    height: 70vh;
+    max-height: 70vh;
+}
+/*Fim Carousel*/
+
 /*Pag index*/
 
 
@@ -45,6 +60,13 @@
 /*Fim Pag login*/
 
 
+/*Pag galeria*/
+.margin-20{
+    margin: 20px;
+}
+/*Pag galeria*/
+
+
 /*Pag Musicas*/
 #card{
     max-width: 100vh;
@@ -55,18 +77,6 @@
 }
 /*Fim Pag Musicas*/
 
-/*Carousel*/
-.carousel{
-    width: 100%;
-}
-
-.carousel-item{
-    top: 0;
-    left: 0;
-    height: 70vh;
-    max-height: 70vh;
-}
-/*Fim Carousel*/
 
 /*Footer*/
 .branco{
