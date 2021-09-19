@@ -2,9 +2,14 @@
 .logo{
     width: 80px;
 }
+
 .top {
     margin-top: 2.5em;
     
+}
+
+.container{
+    margin-top: 5rem;
 }
 
 .github{
@@ -26,6 +31,20 @@
     max-height: 328px;
 }
 
+/*Pag login*/
+.entrar {
+    color: #fff;
+    margin: auto;
+    width: 60%;
+}
+
+
+
+.margin-left{
+    margin-left: 5em;
+}
+/*Fim Pag login*/
+
 
 /*Carousel*/
 .carousel{
@@ -43,28 +62,11 @@
 /*Pag index*/
 
 
-/*Pag login*/
-.entrar {
-    color: #fff;
-    margin: auto;
-    width: 60%;
-}
-
-.container{
-    margin-top: 5rem;
-}
-
-.margin-left{
-    margin-left: 5em;
-}
-/*Fim Pag login*/
-
-
 /*Pag galeria*/
 .margin-20{
     margin: 20px;
 }
-/*Pag galeria*/
+/*Fim Pag galeria*/
 
 
 /*Pag Musicas*/
